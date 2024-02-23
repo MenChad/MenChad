@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **React**  
   
-- 🤝 I’m looking for help with **JavaScript**  
+- 🤝 I’m looking for help with **TypeScript**  
   
 - 📫 How to reach me **maditarik56@gmail.com**  
   
