@@ -10,9 +10,9 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menchad&label=Profile%20views&color=0e75b6&style=flat" alt="menchad" /> </p>  
   
-- 🌱 I’m currently learning **React**  
+- 🌱 I’m currently learning **Typescript**  
   
-- 🤝 I’m looking for help with **TypeScript**  
+- 🤝 I’m looking for help with **Cursor**  
   
 - 📫 How to reach me **maditarik56@gmail.com**  
   
